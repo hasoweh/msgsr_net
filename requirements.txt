@@ -1,0 +1,5 @@
+scikit-image
+torchvision
+grad-cam
+torch
+numpy
